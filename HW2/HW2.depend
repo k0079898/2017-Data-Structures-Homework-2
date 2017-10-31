@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509426241 source:c:\users\user\desktop\ds_hw2\code.cpp
+	<iostream>
+	"function.h"
+
+1508479303 c:\users\user\desktop\ds_hw2\function.h
+	<string>
+
+1508479337 source:c:\users\user\desktop\ds_hw2\main.cpp
+	<iostream>
+	<cstring>
+	"function.h"
+
